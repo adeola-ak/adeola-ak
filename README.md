@@ -18,10 +18,11 @@ doing a little bit of everything I can daily.
 
 ### LATEST PROJECT: 
 Mock E Commerce that I decided to do to learn Redux due to the large amount of state needed for e-commerce builds, as well as get some experience with
-Google Firestore. [REPO](https://github.com/adeola-ak/dod-clothing) | [LIVE](https://aa-dod.herokuapp.com/)
-
+Google Firestore. 
 
 What's left to do: Implementing Graphql, Styles & Animations
+
+[REPO](https://github.com/adeola-ak/dod-clothing) | [LIVE](https://aa-dod.herokuapp.com/)
 
 
 ### OTHER PROJECTS:
