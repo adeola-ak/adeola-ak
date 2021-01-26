@@ -5,8 +5,6 @@ I'm a recent Software Engineering bootcamp graduate who has barely gone a day wi
 I love coding because it's mine. It's personal, it's creative, it's an outlet and it's a challenge. I'm passionate about technology
 and all there is to learn about it because THERE IS SO MUCH TO LEARN and so much to DO. I'm definetely a "Doer".
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
-
 
 What else am I passionate about? I'm passionate about learning and mastery. Anything worth doing is worth doing (beyond) WELL. I'm also passionate
 about impact. I love helping people, I love making people smile, I love creating a change. I like being memorable.
@@ -27,7 +25,7 @@ But I'm making it work by prioritizing and doing a little bit of everything that
 Mock E Commerce Site that I decided to build to learn Redux due to the large amount of state needed for e-commerce builds, as well as get some experience with
 Google Firestore. 
 
-What's left to do: Implementing Graphql, Styles & Animations
+<!-- font: metronova -->What's left to do: Implementing Graphql, Styles & Animations
 
 [REPO](https://github.com/adeola-ak/dod-clothing) | [LIVE](https://aa-dod.herokuapp.com/)
 
