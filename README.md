@@ -39,9 +39,12 @@ Portfolio: [here](https://adeola-ak.github.io/)
 
 
 
-#### fun fact: Learning React made me want to cry 😅 I learned a valueable lesson because I LOVE React now! 
+#### fun fact: Learning React made me want to cry 😅 I learned a valueable lesson though because I LOVE React now! 
 ### Lesson Learned: I can learn anything.
 
+### connect with me
+
+[LinkedIn](https://adeola-ak.github.io/) | [Email](mailto:adeola.ak@outlook.com)
 
 <!--
 **adeola-ak/adeola-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
