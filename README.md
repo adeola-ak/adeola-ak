@@ -20,7 +20,7 @@ But I'm making it work by prioritizing and doing a little bit of everything that
 1. familiarizing myself with the basics of computer science with Harvard's CS50: Intro To Computer Science online course
 2. working on a photography website for a client
 3. learning how to build a gatsby blog
-4. learning java
+4. almost ready to start learning java
 
 ### latest project: 
 Mock E Commerce Site that I decided to build to learn Redux due to the large amount of state needed for e-commerce builds, as well as get some experience with
