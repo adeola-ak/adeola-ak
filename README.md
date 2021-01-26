@@ -25,6 +25,7 @@ What's left to do: Implementing Graphql, Styles & Animations
 [REPO](https://github.com/adeola-ak/dod-clothing) | [LIVE](https://aa-dod.herokuapp.com/)
 
 
+
 ### other projects:
 
 
