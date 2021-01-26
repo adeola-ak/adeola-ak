@@ -43,7 +43,7 @@ Portfolio: [here](https://adeola-ak.github.io/)
 ### Lesson Learned: <b>I can learn anything</b>.
 
 
-### connect with me [LinkedIn](https://adeola-ak.github.io/) | [Email](mailto:adeola.ak@outlook.com)
+### connect with me: [linkedin](https://www.linkedin.com/in/adeola-a-b0b6b270) | [email](mailto:adeola.ak@outlook.com)
 
 <!--
 **adeola-ak/adeola-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
