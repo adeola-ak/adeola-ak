@@ -40,7 +40,7 @@ Portfolio: [here](https://adeola-ak.github.io/)
 
 
 #### fun fact: Learning React made me want to cry 😅 I learned a valueable lesson though because I LOVE React now! 
-### Lesson Learned: <b>I can learn anything</b>.
+### LESSON LEARNED? I can learn anything.
 
 
 ### connect with me: [linkedin](https://www.linkedin.com/in/adeola-a-b0b6b270) | [email](mailto:adeola.ak@outlook.com)
