@@ -39,7 +39,7 @@ find [here](https://adeola-ak.github.io/) in my Portfolio
 
 
 
-#### fun fact: Learning React made me want to cry 😅 I learned a valueable lesson though because I LOVE React now! 
+#### fun fact: Learning React made me want to cry 😅 I learned a valuable lesson though because I LOVE React now! 
 ### LESSON LEARNED? I can learn anything.
 
 
