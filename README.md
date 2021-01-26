@@ -16,7 +16,7 @@ I want to network and build cool things with people new to tech that I don't kno
 cloud services, I want to help build brands and companies. I want to land my ✨FIRST DEV JOB✨... WOAH! But I'm making it work by prioritizing and 
 doing a little bit of everything I can daily.
 
-##LATEST PROJECT: 
+## LATEST PROJECT: 
 Mock E Commerce that I decided to do to learn Redux due to the large amount of state needed for e-commerce builds, as well as get some experience with
 Google Firestore. [REPO](https://github.com/adeola-ak/dod-clothing) | [LIVE](https://aa-dod.herokuapp.com/)
 
@@ -24,14 +24,14 @@ Google Firestore. [REPO](https://github.com/adeola-ak/dod-clothing) | [LIVE](htt
 What's left to do: Implementing Graphql, Styles & Animations
 
 
-##OTHER PROJECTS:
+## OTHER PROJECTS:
 
 
 Portfolio: [here](https://adeola-ak.github.io/)
 
 
 
-Fun Fact: Learning React made me cry. I LOVE React now!
+## Fun Fact: Learning React made me cry. I LOVE React now!
 
 
 <!--
