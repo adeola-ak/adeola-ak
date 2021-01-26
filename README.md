@@ -25,7 +25,8 @@ But I'm making it work by prioritizing and doing a little bit of everything that
 Mock E Commerce Site that I decided to build to learn Redux due to the large amount of state needed for e-commerce builds, as well as get some experience with
 Google Firestore. 
 
-<!-- font: metronova -->What's left to do: Implementing Graphql, Styles & Animations
+
+What's left to do: Implementing Graphql, Styles & Animations
 
 [REPO](https://github.com/adeola-ak/dod-clothing) | [LIVE](https://aa-dod.herokuapp.com/)
 
