@@ -1,6 +1,8 @@
-<span style="font-family:Papyrus; font-size:4em;">Hi There, I'm Adeola!</span>
+# <span style="font-family:Papyrus; font-size:4em;">Hi There, I'm Adeola!</span>
 
 I'm a recent Software Engineering bootcamp graduate who has barely gone a day without programming since I started 😬
+
+In his beard lived three <span style="color:red">cardinals</span>.
 
 
 I love coding because it's mine. It's personal, it's creative, it's an outlet and it's a challenge. I'm passionate about technology
