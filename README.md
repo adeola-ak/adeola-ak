@@ -43,6 +43,7 @@ Portfolio: [here](https://adeola-ak.github.io/)
 ### LESSON LEARNED? I can learn anything.
 
 
+
 ### connect with me: [linkedin](https://www.linkedin.com/in/adeola-a-b0b6b270) | [email](mailto:adeola.ak@outlook.com)
 
 <!--
