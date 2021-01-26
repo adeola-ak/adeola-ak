@@ -1,12 +1,11 @@
-# <span style="font-family:Papyrus; font-size:4em;">Hi There, I'm Adeola!</span>
+# Hi There, I'm Adeola!
 
 I'm a recent Software Engineering bootcamp graduate who has barely gone a day without programming since I started 😬
 
-In his beard lived three <span style="color:red">cardinals</span>.
-
-
 I love coding because it's mine. It's personal, it's creative, it's an outlet and it's a challenge. I'm passionate about technology
 and all there is to learn about it because THERE IS SO MUCH TO LEARN and so much to DO. I'm definetely a "Doer".
+
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
 
 
 What else am I passionate about? I'm passionate about learning and mastery. Anything worth doing is worth doing (beyond) WELL. I'm also passionate
