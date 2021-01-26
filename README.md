@@ -35,7 +35,7 @@ What's left to do: Implementing Graphql, Styles & Animations
 ### other projects:
 
 
-Portfolio: [here](https://adeola-ak.github.io/)
+find [here](https://adeola-ak.github.io/) in my Portfolio
 
 
 
